@@ -232,6 +232,7 @@ body {
     margin-bottom: 1rem;
     background: var(--gradient-warm);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     cursor: pointer;
     text-transform: uppercase;
